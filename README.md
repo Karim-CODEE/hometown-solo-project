@@ -12,7 +12,7 @@ A responsive landing page showcasing the beauty and culture of Egypt. This proje
 * CSS3 (Custom properties and Flexbox)
 
 ## 📸 Preview
-*(https://hometown-solo-project-karim.netlify.app/)*
+*https://hometown-solo-project-karim.netlify.app/*
 
 ---
 Developed by [Karim Mahmoud Ahmed](https://github.com/Karim-CODEE)
